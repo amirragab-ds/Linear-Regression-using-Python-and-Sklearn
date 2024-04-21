@@ -1,6 +1,6 @@
 # Linear Regression in Machine Learning using Python and Sklearn
 
-The ["A Complete Guide to Linear Regression with Python and Sklearn"](https://datascrutineer.com/linear-regression-ml-python-sklearn/) article's source code
+The ["Linear Regression in Machine Learning using Python and Sklearn"](https://datascrutineer.com/linear-regression-ml-python-sklearn/) article's source code
 
 Overview
 --------
