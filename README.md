@@ -4,7 +4,7 @@ The ["Linear Regression in Machine Learning using Python and Sklearn"](https://d
 
 Overview
 --------
-This project aims to introduce begginers to ML using linear regression and the California Housing Prices Dataset. We will train and evaluate two linear regression models using the scikit-learn library to understand the underlying patterns in the data and predict house prices.
+This project aims to introduce beginners to ML using linear regression and the California Housing Prices Dataset. We will train and evaluate two linear regression models using the scikit-learn library to understand the underlying patterns in the data and predict house prices.
 
 Dataset Description
 -------------------
